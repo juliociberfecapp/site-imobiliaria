@@ -1,0 +1,8 @@
+IMOBILIÁRIA TATUAPÉ — SITE EM HTML
+
+Extraia o ZIP. O index.html e a pasta assets devem ficar juntos na raiz do projeto.
+Publique a pasta extraída como um site estático. Não há instalação ou compilação.
+
+O painel do proprietário é demonstrativo: alterações são locais neste navegador, sem login ou banco de dados compartilhado.
+O WhatsApp padrão é +55 11 95205-1599.
+Imóveis e história são ilustrativos. As fontes utilizam o Google Fonts.
